@@ -34,8 +34,12 @@ Acceptance Criteria
 ## THEN I 
 * find a concise, descriptive title
 
+<p>&nbsp;</p>
 
 ### Cleaning/ organizing/labeling style sheet and making index file function properly for different dimensions.
 
+<p>&nbsp;</p>
 
 ![Horiseon Mock-up Photo:](https://raw.githubusercontent.com/VAalchemist/horiseonProject/main/Develope/images/horiseon-mock-up.png)
+
+Check out this website  [right here!](https://vaalchemist.github.io/horiseonProject/)
